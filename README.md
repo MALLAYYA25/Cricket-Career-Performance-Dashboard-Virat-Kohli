@@ -1,13 +1,16 @@
 🏏 Cricket Career Performance Dashboard – Virat Kohli
 
 📊 Designed a dynamic Power BI dashboard visualizing Virat Kohli’s international cricket journey across ODI (2008), T20 (2010), and Test (2011) formats.
+
 Key Highlights:
+
 🔹 Total Matches: 295
 🔹 Total Runs: 14K
 🔹 30+ scores: 157
 🔹 50s: 76
 🔹 100s: 47
 🔹 Highest Score: 254
+
 Opponent Analysis:
 📈 Top opponents by runs: England, Australia, West Indies
 🥇 Most matches played:
