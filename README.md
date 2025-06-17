@@ -12,14 +12,21 @@ Key Highlights:
 🔹 Highest Score: 254
 
 Opponent Analysis:
+
 📈 Top opponents by runs: England, Australia, West Indies
 🥇 Most matches played:
 England (59)
+
 Australia (57)
+
 South Africa (43)
+
 Tools Used:
+
 Power BI (Interactive visuals, DAX, Data modeling)
+
 Data segmentation by year, opponent, and milestones
+
 📌 This project showcases sports analytics, visual storytelling, and effective use of KPIs & charts in Power BI.
 ======================================================================================================
 https://github.com/MALLAYYA25/Cricket-Career-Performance-Dashboard-Virat-Kohli/blob/main/King_Kohli.png
