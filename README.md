@@ -29,6 +29,5 @@ Data segmentation by year, opponent, and milestones
 
 📌 This project showcases sports analytics, visual storytelling, and effective use of KPIs & charts in Power BI.
 
-======================================================================================================
 https://github.com/MALLAYYA25/Cricket-Career-Performance-Dashboard-Virat-Kohli/blob/main/King_Kohli.png
-=======================================================================================================
+
